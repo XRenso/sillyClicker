@@ -1,0 +1,2 @@
+# sillyClicker
+тупой кликер
